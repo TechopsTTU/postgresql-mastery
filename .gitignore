@@ -1,0 +1,23 @@
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Problematic files
+nul
+
+# Claude AI files
+.claude/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
